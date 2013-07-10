@@ -27,12 +27,6 @@
 # Mac filesystem dust
 *.DS_Store
 
-# intellij
-*.iml
-*.ipr
-*.iws
-.idea/
-
 # Fern's utils
 uploadtoserver.sh
 
