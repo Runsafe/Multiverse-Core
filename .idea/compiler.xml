@@ -27,6 +27,9 @@
         <module name="Multiverse-Core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Multiverse-Core" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

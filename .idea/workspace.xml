@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb119a5-d37a-4046-8e69-65f04a282eba" name="Default" comment="" />
+    <list default="true" id="cbb119a5-d37a-4046-8e69-65f04a282eba" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multiverse-Core.iml" afterPath="$PROJECT_DIR$/Multiverse-Core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Multiverse-Core.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cbb119a5-d37a-4046-8e69-65f04a282eba" time="1373489936426" ignored="false" />
