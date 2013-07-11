@@ -24,6 +24,8 @@
 
 /world
 
+.idea/workspace.xml
+
 # Mac filesystem dust
 *.DS_Store
 
